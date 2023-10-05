@@ -6,4 +6,4 @@
 - 📫 How to reach me whitecrossm26@wpsma.org
 ### Code.org Gamelab
 [robotface](https://mwhitecross.github.io/robotface/)
-> in this project I used shapes, and randomness to express my creativity and created a random robot face
+> In this project I used shapes, and randomness to express my creativity and created a random robot face
