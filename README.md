@@ -9,5 +9,5 @@
 [robotface](https://mwhitecross.github.io/robotface/)
 > In this project I used shapes, and randomness to express my creativity and created a random robot face
 
-[captioned scenes](https://mwhitecross.github.io/robotface/)
+[captioned scenes](https://github.com/mwhitecross/robot.git)
 > A creative project of this unit.  Using problem-solving process as a model.
