@@ -6,10 +6,10 @@
 - 👨‍💻 I’m currently learning computer programing
 - 📫 How to reach me whitecrossm26@wpsma.org
 ### Code.org Gamelab
-[Robotface](https://studio.code.org/projects/gamelab/u1JXH6Lgcz6-rp2W6Gsf4B2uH_vJkY-MSrhOWpYTJrg)
+[Robot Face](https://studio.code.org/projects/gamelab/u1JXH6Lgcz6-rp2W6Gsf4B2uH_vJkY-MSrhOWpYTJrg)
 > In this project I used shapes, and randomness to express my creativity and created a random robot face
 
-[Captioned scenes](https://studio.code.org/projects/gamelab/XfaToWpOVcPc63IJRH6MLnXrizkbsTCyojkznQNAgDk)
+[Captioned Scenes](https://studio.code.org/projects/gamelab/XfaToWpOVcPc63IJRH6MLnXrizkbsTCyojkznQNAgDk)
 > A creative project of this unit.  Using problem-solving process as a model.
 
 [Interactive Card](https://studio.code.org/projects/gamelab/PYLb8Jtpw1HajZW7C_SXxlayLLvF1_6chXG9ba1Ux6A)
