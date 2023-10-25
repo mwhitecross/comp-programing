@@ -12,5 +12,5 @@
 [Captioned scenes](https://studio.code.org/projects/gamelab/XfaToWpOVcPc63IJRH6MLnXrizkbsTCyojkznQNAgDk)
 > A creative project of this unit.  Using problem-solving process as a model.
 
-[InteractiveCard](https://studio.code.org/projects/gamelab/PYLb8Jtpw1HajZW7C_SXxlayLLvF1_6chXG9ba1Ux6A)
+[Interactive Card](https://studio.code.org/projects/gamelab/PYLb8Jtpw1HajZW7C_SXxlayLLvF1_6chXG9ba1Ux6A)
 > In this project I worked with a partner to create sprites that would move and respond to the correct inputs.  As well as use variables to help the sprites.
