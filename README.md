@@ -14,3 +14,6 @@
 
 [Interactive Card](https://studio.code.org/projects/gamelab/PYLb8Jtpw1HajZW7C_SXxlayLLvF1_6chXG9ba1Ux6A)
 > In this project I worked with a partner to create sprites that would move and respond to the correct inputs.  As well as use variables to help the sprites.
+
+[Side Scroll Game](https://studio.code.org/projects/gamelab/xocypBSy1Ham8hivhB9SVSOZ_MpwyDTa95B3dhLEg1Q)
+> In this project I used code to create a game where the sprite jumps over obstacles and gets the target using the correct imputs.
