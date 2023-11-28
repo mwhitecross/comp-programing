@@ -20,3 +20,6 @@
 
 [Flyer Game](https://studio.code.org/projects/gamelab/KtDxohGznyY-oDvxOpt1BoJpwpuwqIT0-L4s9DtD-gM)
 > In this project I used code to make moving platforms that would get in the way of the player.  
+
+[Platform Game](https://studio.code.org/projects/gamelab/MbH1cIy7GW5HA0N38grcWWWZs1BmIDZpUsGbosoBH0E)
+> In this project I used code to allow a sprite to jump from platforms in order to collect more points while avoiding obstacles.
