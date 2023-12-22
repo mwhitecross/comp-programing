@@ -26,3 +26,13 @@
 
 [Final Game](https://studio.code.org/projects/gamelab/lcpx_NumwzxTBuWeqCn5H1xgi-Rd2ES6fh9lbdEq7GA)
 > In this project I used code to make two diffrerent sprites use collisions and variable to keep score of how it is going.
+
+### MIT App Inventor
+[Hello Its Me](https://ai2.appinventor.mit.edu/#6744952551636992)
+> In this project I used buttons that would play sounds with code.
+
+[Piano Maker](https://ai2.appinventor.mit.edu/#5598239736594432)
+> In this project I used butttons and code to make a piano.
+
+[Music Maker](https://ai2.appinventor.mit.edu/#6478048066928640)
+> In this project I used buttons that when clicked would play sounds, and there was also buttons to record sound as well as play the recordings.
