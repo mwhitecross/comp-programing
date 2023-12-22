@@ -28,11 +28,11 @@
 > In this project I used code to make two diffrerent sprites use collisions and variable to keep score of how it is going.
 
 ### MIT App Inventor
-[Hello Its Me](https://ai2.appinventor.mit.edu/#6744952551636992)
+[Hello Its Me](https://gallery.appinventor.mit.edu/?galleryid=c2bc1947-49c5-495b-9078-d6bd9c1cb3c8)
 > In this project I used buttons that would play sounds with code.
 
-[Piano Maker](https://ai2.appinventor.mit.edu/#5598239736594432)
+[Piano Maker](https://gallery.appinventor.mit.edu/?galleryid=e27be818-1f96-4417-bc0a-f76b3af533c5)
 > In this project I used butttons and code to make a piano.
 
-[Music Maker](https://ai2.appinventor.mit.edu/#6478048066928640)
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=1b898f41-c48d-4114-a734-29e7c7216147)
 > In this project I used buttons that when clicked would play sounds, and there was also buttons to record sound as well as play the recordings.
