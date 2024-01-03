@@ -38,4 +38,7 @@
 > In this project I used buttons that when clicked would play sounds, and there was also buttons to record sound as well as play the recordings.
 
 [Find The Gold](https://ai2.appinventor.mit.edu/#5277856869253120)
->In this project I used code to enable the ball to move towards the gold.  I also coded in that if the ball hit a wall it would have to restart.
+> In this project I used code to enable the ball to move towards the gold.  I also coded in that if the ball hit a wall it would have to restart.
+
+[Food Chase](https://ai2.appinventor.mit.edu/#5556466035326976)
+> In this project I used code to make  a ball fling towards sprites in order to grow and when a different colored ball hits the first one it ends the game.
