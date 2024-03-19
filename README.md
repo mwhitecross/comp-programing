@@ -44,5 +44,8 @@
 > In this project I used code to make  a ball fling towards sprites in order to grow and when a different colored ball hits the first one it ends the game.
 
 ### CS Academy
-[Creative Task](https://academy.cs.cmu.edu/sharing/chocolateCat1815)
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/chocolateCat1815)
 >  In this project I used code to draw shapes and labels in order to create a logo.
+
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/khakiBear6766)
+>  In this project I used code to draw an object that can be modified through using code with a mouse click.
