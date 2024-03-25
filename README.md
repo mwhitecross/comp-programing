@@ -49,3 +49,6 @@
 
 [Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/khakiBear6766)
 >  In this project I used code to draw an object that can be modified through using code with a mouse click.
+
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/seaGreenCow6969)
+>  In this project I used code to animate shapes by making them move with the mouse>
