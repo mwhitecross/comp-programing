@@ -51,4 +51,7 @@
 >  In this project I used code to draw an object that can be modified through using code with a mouse click.
 
 [Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/seaGreenCow6969)
->  In this project I used code to animate shapes by making them move with the mouse>
+>  In this project I used code to animate shapes by making them move with the mouse.
+
+[Unit 4 Creative Task](https://academy.cs.cmu.edu/sharing/ivoryBird7200)
+>  In this project I used code to create helper functions as well as use code to see if a key was pressed.
