@@ -57,4 +57,4 @@
 >  In this project I used code to create helper functions as well as use code to see if a key was pressed.
 
 [Unit 5 Creative Task](https://academy.cs.cmu.edu/sharing/siennaSheep1336)
->  In this project I used code to 
+>  In this project I used code to create complex conditionals as well as key functions.
